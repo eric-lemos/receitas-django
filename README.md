@@ -1,1 +1,1 @@
-"# receitas-django" 
+"# receitas-django "
