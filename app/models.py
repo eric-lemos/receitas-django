@@ -1,4 +1,4 @@
-from users.models import Pessoa
+from pessoas.models import Pessoa
 from datetime import datetime
 from django.db import models
 
